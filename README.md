@@ -1,7 +1,7 @@
-Please note that this is an SDK for webhooks integration, and not the FormSG system.
-
 <!-- BADGES -->
 <img src="https://forthebadge.com/images/badges/made-with-python.svg" height="30">
+
+Please note that this is an SDK for webhooks integration, and not the FormSG system.
 
 # FormSG Javascript SDK
 
