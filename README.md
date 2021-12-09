@@ -3,12 +3,10 @@ Please note that this is an SDK for webhooks integration, and not the FormSG sys
 <!-- BADGES -->
 <img src="https://forthebadge.com/images/badges/made-with-python.svg" height="30">
 
-<p align="center">
-    SwiftDispatch attempts to harness the power of technology to support the Home Recovery Programme (HRP).
-    <br />
-    <a><strong>These Things We Do, So Others May Live</strong></a>
- </p>
-  
+# FormSG Javascript SDK
+
+This SDK provides convenient utilities for verifying FormSG webhooks and decrypting submissions in Python.
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
