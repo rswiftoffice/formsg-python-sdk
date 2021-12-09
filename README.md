@@ -1,6 +1,3 @@
-# formsg-python-sdk
-Python SDK for integrating with FormSG
-
 Please note that this is an SDK for webhooks integration, and not the FormSG system.
 
 <!-- BADGES -->
